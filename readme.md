@@ -7,3 +7,5 @@ on changing the world for the good :D
 ---
 
 [sitemap generator](site-map-gen) : generate xml sitemaps by filling details in markdown
+
+[copy and duplicate](copy-and-duplicate) : make multiple copies of a file at a time
