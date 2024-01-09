@@ -28,3 +28,5 @@ corresponding xml :
 ```
 
 check out [example.md](example.md) and [exmaple-output-sitemap.xml](example-output-sitemap.xml) for a clear picture on what exactly u are gonna need to do and what u are getting out
+
+the python file to be run is : [site-md-to-xml.py](site-md-to-xml.py)
