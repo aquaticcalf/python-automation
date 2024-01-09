@@ -17,3 +17,12 @@ example markdown :
 ```
 
 corresponding xml : 
+
+```xml
+    <url>
+        <loc>https://example.xyz/</loc>
+        <lastmod>2024-01-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+```
