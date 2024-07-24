@@ -14,6 +14,6 @@ on changing the world for the good :D
 
 [git add commit and push](git-add-commit-and-push) : python script that executes simple git commands
 
-[resume.py](resumebuildermaker.vercel.app) : tiny flask app to build a resume
+[resume.py](https://resumebuildermaker.vercel.app) : tiny flask app to build a resume
 
-[md to html](md-to-html-aq.vercel.app) : markdown to html convertor
+[md to html](https://md-to-html-aq.vercel.app) : markdown to html convertor
