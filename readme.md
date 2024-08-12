@@ -1,3 +1,7 @@
+## python automation
+
+[![randown](https://aqclf.xyz/randown/randown.svg)](https://aqclf.xyz/randown?username=aquaticcalf&reponame=python-automation)
+
 use python to automate boring stuff , 
 
 so that u can spend the time saved 
