@@ -14,6 +14,8 @@ on changing the world for the good :D
 
 [git add commit and push](git-add-commit-and-push) : python script that executes simple git commands
 
+[icons generation for PWA and others](icons-generation-for-pwa-and-others) : generate icons for PWA and other purposes
+
 [resume.py](https://resumebuildermaker.vercel.app) : tiny flask app to build a resume
 
 [md to html](https://md-to-html-aq.vercel.app) : markdown to html convertor
